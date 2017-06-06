@@ -1,0 +1,2 @@
+# AssignmentScala
+Create two endpoints 
